@@ -1,8 +1,14 @@
-# React + Vite
+# Navigation for Courses
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+This project aims to create a navigation menu for courses using React Router DOM. The navigation menu will include options for All, Full Stack Development, Data Science, Cyber Security, and Career.
 
-Currently, two official plugins are available:
+# Technologies Used
+- React: JavaScript library for building user interfaces.
+- React Router DOM: Library for handling routing in React applications.
+- HTML: Markup language for creating web pages.
+- CSS: Styling language for designing web pages.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Usage
+- **Navigation Menu:** The navigation menu will be located in the middle of the page and will include links to various courses.
+- **Course Pages:** Each course page will contain static content such as course description, image, and other relevant information.
