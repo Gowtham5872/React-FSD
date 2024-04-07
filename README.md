@@ -1,8 +1,19 @@
-# React + Vite
+# User Management React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application that demonstrates CRUD (Create, Read, Update, Delete) operations with user data. The application interacts with a mock API to fetch, add, update, and delete user records.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Display all existing user data fetched from the mock API
+- Add new users with name, username, and email fields
+- Delete existing users
+- Update existing user details
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces
+- Axios: A promise-based HTTP client for making requests to the mock API
+- JSONPlaceholder: A fake online REST API for testing and prototyping
+
+
+
